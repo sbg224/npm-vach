@@ -14,4 +14,3 @@ Ce projet génère un message humoristique lorsque vous exécutez `node index.js
             (__)\       )\/\
                 ||----w |
                 ||     ||
-~/formation-dev/WCS/js/npm-vach ❯
